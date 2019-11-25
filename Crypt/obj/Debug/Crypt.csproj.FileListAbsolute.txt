@@ -1,0 +1,10 @@
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\bin\Debug\Crypt.exe.config
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\bin\Debug\Crypt.exe
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\bin\Debug\Crypt.pdb
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.csprojAssemblyReference.cache
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.cache
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.exe
+C:\Users\YarkinPC\source\repos\Crypt\Crypt\obj\Debug\Crypt.pdb
